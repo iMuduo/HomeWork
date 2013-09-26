@@ -18,12 +18,18 @@
     <ClInclude Include="linklist.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="linklist_ext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="studentList.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="linklist.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="linklist_ext.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -76,9 +76,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="linklist.h" />
+    <ClInclude Include="linklist_ext.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="linklist.c" />
+    <ClCompile Include="linklist_ext.c" />
     <ClCompile Include="studentList.c" />
   </ItemGroup>
   <ItemGroup>
